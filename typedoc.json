@@ -1,0 +1,10 @@
+{
+  "entryPoints": ["src"],
+  "entryPointStrategy": "expand",
+  "tsconfig": "tsconfig.app.json",
+  "out": "docs-api",
+  "name": "Group Bill Splitter – API",
+  "exclude": ["**/*.test.*", "**/*.spec.*"],
+  "skipErrorChecking": true,
+  "plugin": []
+}

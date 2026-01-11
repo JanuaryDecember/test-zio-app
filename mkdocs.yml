@@ -1,0 +1,8 @@
+site_name: Moja Dokumentacja
+nav:
+  - Home: index.md
+  - Instalacja: installation.md
+  - Użycie: usage.md
+theme:
+  name: material
+
